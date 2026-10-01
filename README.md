@@ -3,7 +3,7 @@
 # 🛡️ MC-ExamBrowser
 ### Enterprise-Grade Multiplatform Kiosk Client for Computer-Based Testing (CBT)
 
-[![GitHub Release](https://img.shields.io/badge/release-v2.4.0-0284c7?style=for-the-badge&logo=github)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest)
+[![GitHub Release](https://img.shields.io/badge/release-v14.0.0-0284c7?style=for-the-badge&logo=github)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest)
 [![Platform - Android](https://img.shields.io/badge/platform-Android_7.0+-10b981?style=for-the-badge&logo=android)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest)
 [![Platform - Windows](https://img.shields.io/badge/platform-Windows_10%20%2F%2011-0078d7?style=for-the-badge&logo=windows)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest)
 [![Security - Kiosk Mode](https://img.shields.io/badge/security-Kernel_Level_Lockdown-6366f1?style=for-the-badge&logo=shield)](https://mcode.web.id/exambrowser)
@@ -51,9 +51,9 @@ Pre-compiled binary releases are distributed exclusively via GitHub CDN for fast
 
 | Platform | Type | Architecture | Minimum OS | Download Link |
 |---|---|---|---|---|
-| **Android APK** | Universal APK | `arm64-v8a`, `armeabi-v7a`, `x86_64` | Android 7.0 (Nougat) s/d Android 15+ | [📦 Download APK (v2.4.0)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest/download/mc-exambrowser.apk) |
-| **Windows Setup** | Installer `.exe` | `x64` (64-bit) | Windows 10 / 11 | [💻 Download Setup (v1.0.0)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest/download/MCExamBrowser.exe) |
-| **Windows Portable** | Standalone `.zip` | `x64` (64-bit Lab Ready) | Windows 10 / 11 | [⚡ Download Portable .zip](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest/download/MCExamBrowser-Windows.zip) |
+| **Android APK** | Universal APK | `arm64-v8a`, `armeabi-v7a`, `x86_64` | Android 7.0 (Nougat) s/d Android 15+ | [📦 Download APK (v2.4.0)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest/download/MC-ExamBrowser.apk) |
+| **Windows Setup** | Installer `.exe` | `x64` (64-bit) | Windows 10 / 11 | [💻 Download Setup (v1.0.0)](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest/download/MC-ExamBrowser.exe) |
+| **Windows Portable** | Standalone `.zip` | `x64` (64-bit Lab Ready) | Windows 10 / 11 | [⚡ Download Portable .zip](https://github.com/maulanacod3/MC-ExamBrowser/releases/latest/download/MC-ExamBrowser-Windows.zip) |
 
 > 💡 **Mirror Cloud & Release Archive:**  
 > All historical releases and mirror downloads can be accessed directly on the [GitHub Releases Page](https://github.com/maulanacod3/MC-ExamBrowser/releases).
