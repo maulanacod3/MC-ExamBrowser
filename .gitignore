@@ -1,0 +1,26 @@
+# System and OS Files
+.DS_Store
+Thumbs.db
+
+# Executables & Binaries (Use GitHub Releases for distributing compiled installers!)
+*.exe
+*.dll
+*.apk
+*.zip
+*.tar.gz
+*.msi
+*.iso
+
+# IDE & Editor configs
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary / Log files
+*.log
+*.tmp
+tmp/
+scratch/
